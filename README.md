@@ -6,7 +6,7 @@ An analysis of random-generated mood dataset all-day throughout 2023
 I calculated the average mood by giving score to each emotions. There are 5 emotions: Ecstatic, Happy, Normal, Sad, and Awful, each has the score of 5, 4, 3,... respectively.\
 ![plot](https://github.com/mystogray/mystogray_porto/blob/main/docs/assets/porto_mood_count.svg)
 Having the average of a decimal number, I rounded it to the decimal below (`floor`).\
-Turns out, I was not happy throughout 2023, as my dominant moods were Normal and Sad.\
+Turns out, I was not happy throughout 2023, as my dominant moods were Normal and Sad. My lowest consecutive months are August–September, while my highest is in the next 3 months.\
 ![plot](https://github.com/mystogray/mystogray_porto/blob/main/docs/assets/porto_mood_avg.svg)
 
 ### What Activities Impact Which Emotions?
